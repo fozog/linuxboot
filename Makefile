@@ -3,7 +3,7 @@
 #
 # This requires the vendor firmware image, a Linux kernel and an initrd.cpio.xz file.
 #
-# 
+# FFO
 all: linuxboot
 
 -include .config
